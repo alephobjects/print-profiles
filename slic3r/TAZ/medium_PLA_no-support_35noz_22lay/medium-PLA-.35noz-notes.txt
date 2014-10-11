@@ -1,0 +1,10 @@
+medium PLA configuration notes:
+
+This configuration is a good middle-of-the-road default for when you want a nice looking print that doesn't take forever to print. The infill is set to 30%, which is a good default for most parts that require moderate strength. If you'd like a stronger part, simply change the infill density setting under print settings in slic3r (recommended maximum is 85% to maintain a good surface finish). This print uses a 0.22mm layer thickness, which is very well suited to the 0.35mm nozzle. However if you do wish to go to a larger or smaller layer thickness, simply change the layer height setting in print settings (0.75 microns is the recommended minimum, .28mm the recommended maximum).
+
+Sone great information on printing in PLA can be found here: http://www.matterhackers.com/articles/how-to-succeed-when-printing-in-pla
+
+PLA needs more time to cool than ABS, so the faster you go and the hotter your nozzle, the more imperative it is that you use a fan to cool the extrusion after it hits the previous layer. we highly recommend using a fan for any prints that have overhangs or bridges. Fan g-code and stl files for the TAZ can be found here: http://devel.lulzbot.com/TAZ/Guava/production_parts/test_parts/fan_duct/
+
+More information on using a fan can be found here: 
+

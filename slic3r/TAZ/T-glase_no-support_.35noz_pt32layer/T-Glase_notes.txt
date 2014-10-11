@@ -1,0 +1,9 @@
+Notes on printing with T-Glase
+
+T-glase is pretty awesome; it's a lot like really pretty PLA but it's much more flexible and you can leave it in a hot car without it getting all saggy. The only downside is that it print's quite slowly; trust me, it's worth the wait.
+
+Print temperature is 215C for the nozzle and 50C for the bed, a bit of lulz juice on the bed helps with adhesion.
+
+For clearer parts, you might want to try a larger nozzle and much taller layers (http://www.lulzbot.com/products/budaschnozzle-20-nozzle-075mm)
+
+Here's a great writeup on producing clearer parts, and even printed light-pipes: http://taulman3d.com/t-glase-features.html

@@ -1,0 +1,10 @@
+fast PLA configuration notes:
+
+This configuration is a great way to go if you're looking to make something very large, very fast. PLA has less issues than ABS with thermal expansion causing parts to peel off the bed or split. The layer height is bumped up to .32mm, making this a bit faster than our fastABS config. The infill is set to 40%, which is a good default for most parts that require moderate strength. If you'd like a stronger part, simply change the infill density setting under print settings in slic3r (recommended maximum is 85% to maintain a good surface finish). The high layer height helps keep sharp corners and overhangs from deforming, a common issue with PLA.
+
+Sone great information on printing in PLA can be found here: http://www.matterhackers.com/articles/how-to-succeed-when-printing-in-pla
+
+PLA needs more time to cool than ABS, so the faster you go and the hotter your nozzle, the more important it is that you use a fan to cool the extrusion before printing over it again. We highly recommend using a fan for any prints that have overhangs or bridges. Fan g-code and stl files for the TAZ can be found here: http://devel.lulzbot.com/TAZ/Guava/production_parts/test_parts/fan_duct/
+
+More information on using a fan can be found here: http://forum.lulzbot.com/viewtopic.php?f=36&t=384
+

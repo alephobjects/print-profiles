@@ -1,0 +1,7 @@
+Notes on printing with high-impact polystyrene (HIPS)
+
+HIPS is a great material to work with. It prints similarly to ABS but doesn't have the same issues with parts lifting off of the bed due to thermal stresses in the parts. It also makes a great support material for use with ABS because of it's similar melting temperature and ability to be easily broken away from cooled ABS. It will also dissolve in limonene for support material that is difficult or impossible to remove by hand. HIPS does tend to deform on overhangs similarly to PLA without a fan, so you may need to drop extrusion temperature by 5-10 degrees to minimize this.
+
+This configuration is a nice default for HIPS that can print most parts that don't have significant overhangs or bridges. 
+
+To print HIPS, apply a generous coat of ABS/acetone slurry to the bed surface and use the same temperature settings as ABS (230C-noz/85C-bed).
