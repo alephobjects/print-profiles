@@ -2,7 +2,8 @@ The Print Profiles repository includes all of the development print and slicing 
 
 Current 3D Printer profiles available: 
 * LulzBot TAZ 
-* LulzBot Mini 
+* LulzBot Mini
+* LulzBot Mega 
 
 Current Software profiles available: 
 * Slic3r 
