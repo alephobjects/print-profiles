@@ -2,3 +2,4 @@
 *.gcode
 ATTIC
 *.orig
+*.txt
